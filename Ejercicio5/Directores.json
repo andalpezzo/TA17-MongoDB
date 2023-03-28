@@ -1,0 +1,22 @@
+[{
+  "_id": "39924455W",
+  "NomApels": "Jose Marín",
+  "DNIJefe": "39924455W",
+  "Despacho": {
+    "$oid": "6423347843c9a386bf3e13f1"
+  }
+},{
+  "_id": "39923388T",
+  "NomApels": "Andrea Dal Pezzo",
+  "DNIJefe": "39924455W",
+  "Despacho": {
+    "$oid": "6423347543c9a386bf3e13f0"
+  }
+},{
+  "_id": "39927744G",
+  "NomApels": "Aitor Iglesias",
+  "DNIJefe": "39923388T",
+  "Despacho": {
+    "$oid": "6423347143c9a386bf3e13ef"
+  }
+}]
