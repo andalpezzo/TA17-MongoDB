@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6422c6075bf95ee20b312640"
+  },
+  "Nombre": "Samsung"
+},{
+  "_id": {
+    "$oid": "6422c6075bf95ee20b312641"
+  },
+  "Nombre": "Iphone"
+},{
+  "_id": {
+    "$oid": "6422c6075bf95ee20b312642"
+  },
+  "Nombre": "Xiaomi"
+}]

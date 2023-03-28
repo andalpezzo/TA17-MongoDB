@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6422caa95bf95ee20b312646"
+  },
+  "Nombre": "Móvil 1",
+  "Precio": 800,
+  "Fabricante": {
+    "$oid": "6422c80b5bf95ee20b312643"
+  }
+},{
+  "_id": {
+    "$oid": "6422cac95bf95ee20b312647"
+  },
+  "Nombre": "Móvil 2",
+  "Precio": 1000,
+  "Fabricante": {
+    "$oid": "6422c80b5bf95ee20b312644"
+  }
+},{
+  "_id": {
+    "$oid": "6422cae55bf95ee20b312648"
+  },
+  "Nombre": "Móvil 3",
+  "Precio": 500,
+  "Fabricante": {
+    "$oid": "6422c80b5bf95ee20b312645"
+  }
+}]
