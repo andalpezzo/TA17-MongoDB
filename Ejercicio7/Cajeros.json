@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "64233d3743c9a386bf3e13fd"
+  },
+  "Nombre": "Andrea Dal Pezzo"
+},{
+  "_id": {
+    "$oid": "64233d4443c9a386bf3e13fe"
+  },
+  "Nombre": "Yolanda Martínez"
+}]
