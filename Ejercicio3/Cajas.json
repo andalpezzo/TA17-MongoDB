@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6423278e43c9a386bf3e13e5"
+  },
+  "Contenido": "Zapatillas",
+  "Valor": 1111,
+  "Almacen": {
+    "$oid": "6423263f43c9a386bf3e13e3"
+  }
+},{
+  "_id": {
+    "$oid": "642327af43c9a386bf3e13e6"
+  },
+  "Contenido": "Bolsos",
+  "Valor": 1234,
+  "Almacen": {
+    "$oid": "6423263f43c9a386bf3e13e3"
+  }
+},{
+  "_id": {
+    "$oid": "642327d843c9a386bf3e13e7"
+  },
+  "Contenido": "Camisas",
+  "Valor": 888,
+  "Almacen": {
+    "$oid": "6423275b43c9a386bf3e13e4"
+  }
+},{
+  "_id": {
+    "$oid": "642327ef43c9a386bf3e13e8"
+  },
+  "Contenido": "Camisetas",
+  "Valor": 321,
+  "Almacen": {
+    "$oid": "6423275b43c9a386bf3e13e4"
+  }
+}]
