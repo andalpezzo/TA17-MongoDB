@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "642319dd43c9a386bf3e13e0"
+  },
+  "Nombre": "Andrea",
+  "Apellidos": "Dal Pezzo Martínez",
+  "Departamento": {
+    "$oid": "642317a943c9a386bf3e13dd"
+  }
+},{
+  "_id": {
+    "$oid": "64231a8f43c9a386bf3e13e1"
+  },
+  "Nombre": "Maria",
+  "Apellidos": "Sanchez Gomez",
+  "Departamento": {
+    "$oid": "642317be43c9a386bf3e13de"
+  }
+},{
+  "_id": {
+    "$oid": "64231aeb43c9a386bf3e13e2"
+  },
+  "Nombre": "Pepe",
+  "Apellidos": "Hernandez Iglesias",
+  "Departamento": {
+    "$oid": "642317eb43c9a386bf3e13df"
+  }
+}]
