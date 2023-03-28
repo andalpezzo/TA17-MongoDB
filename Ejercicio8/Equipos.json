@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "642340f643c9a386bf3e1406"
+  },
+  "NomApels": "Equipo investigación cáncer",
+  "Facultad": {
+    "$oid": "64233f7a43c9a386bf3e1404"
+  }
+},{
+  "_id": {
+    "$oid": "6423411e43c9a386bf3e1407"
+  },
+  "NomApels": "Equipo investigación Física Cuántica",
+  "Facultad": {
+    "$oid": "64233f8a43c9a386bf3e1405"
+  }
+}]
