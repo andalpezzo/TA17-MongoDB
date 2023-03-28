@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6423316f43c9a386bf3e13e9"
+  },
+  "Nombre": "The Avengers",
+  "CalificacionEdad": 7
+},{
+  "_id": {
+    "$oid": "6423318443c9a386bf3e13ea"
+  },
+  "Nombre": "Star Wars",
+  "CalificacionEdad": 12
+},{
+  "_id": {
+    "$oid": "642331b243c9a386bf3e13eb"
+  },
+  "Nombre": "Toy Story",
+  "CalificacionEdad": 3
+}]
