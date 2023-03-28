@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "64233d0843c9a386bf3e13fb"
+  },
+  "Nombre": "Macarrones",
+  "Precio": 2
+},{
+  "_id": {
+    "$oid": "64233d1143c9a386bf3e13fc"
+  },
+  "Nombre": "Huevos",
+  "Precio": 3
+}]
