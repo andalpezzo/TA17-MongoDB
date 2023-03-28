@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64233ae943c9a386bf3e13f5"
+  },
+  "Nombre": "Proveedor 1"
+},{
+  "_id": {
+    "$oid": "64233aee43c9a386bf3e13f6"
+  },
+  "Nombre": "Proveedor 2"
+},{
+  "_id": {
+    "$oid": "64233af143c9a386bf3e13f7"
+  },
+  "Nombre": "Proveedor 3"
+}]

@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "64233b5343c9a386bf3e13f8"
+  },
+  "CodigoPieza": {
+    "$oid": "64233a9d43c9a386bf3e13f2"
+  },
+  "IdProveedor": {
+    "$oid": "64233ae943c9a386bf3e13f5"
+  },
+  "Precio": 2
+},{
+  "_id": {
+    "$oid": "64233ba343c9a386bf3e13f9"
+  },
+  "CodigoPieza": {
+    "$oid": "64233aa543c9a386bf3e13f3"
+  },
+  "IdProveedor": {
+    "$oid": "64233aee43c9a386bf3e13f6"
+  },
+  "Precio": 3
+},{
+  "_id": {
+    "$oid": "64233bde43c9a386bf3e13fa"
+  },
+  "CodigoPieza": {
+    "$oid": "64233ab043c9a386bf3e13f4"
+  },
+  "IdProveedor": {
+    "$oid": "64233af143c9a386bf3e13f7"
+  },
+  "Precio": 4
+}]
