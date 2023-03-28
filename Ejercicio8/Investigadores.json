@@ -1,0 +1,13 @@
+[{
+  "_id": "12345678W",
+  "NomApels": "Andrea Dal Pezzo",
+  "Facultad": {
+    "$oid": "64233f7a43c9a386bf3e1404"
+  }
+},{
+  "_id": "12345678T",
+  "NomApels": "Jose Marín",
+  "Facultad": {
+    "$oid": "64233f8a43c9a386bf3e1405"
+  }
+}]
