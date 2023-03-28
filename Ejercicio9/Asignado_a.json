@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "642344bb43c9a386bf3e140c"
+  },
+  "Cientifico": "12345678P",
+  "Proyecto": {
+    "$oid": "6423446743c9a386bf3e140a"
+  }
+},{
+  "_id": {
+    "$oid": "642344d943c9a386bf3e140d"
+  },
+  "Cientifico": "12345678G",
+  "Proyecto": {
+    "$oid": "6423446e43c9a386bf3e140b"
+  }
+}]
