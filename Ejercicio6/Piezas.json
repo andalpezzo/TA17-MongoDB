@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64233a9d43c9a386bf3e13f2"
+  },
+  "Nombre": "Tronillo"
+},{
+  "_id": {
+    "$oid": "64233aa543c9a386bf3e13f3"
+  },
+  "Nombre": "Tuerca"
+},{
+  "_id": {
+    "$oid": "64233ab043c9a386bf3e13f4"
+  },
+  "Nombre": "Tuberia"
+}]
